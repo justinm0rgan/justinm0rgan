@@ -22,14 +22,12 @@ I recently completed a MS in Environmental Policy and Sustainability Management 
 <b>NYC Food Desert Predictor</b>
 <br>
 <a href="https://www.loom.com/share/785b69149e744831817a195db026b182">Overview Demo</a> | <a href="https://github.com/justinm0rgan/nyc-food-desert-predictor">Repo</a>
-
 A data model that predicts food desert geographies at the census tract level for NYC 5 boroughs
 
 ### Other Projects
 <b>Music Recommender</b> 
 <br>
 <a href="https://github.com/khyateed/music-recommender">Repo</a>
-
 A Spotify recommendation system for prominent music labels.
 
 ### Current Project
