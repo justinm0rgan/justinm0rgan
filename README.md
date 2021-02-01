@@ -29,7 +29,7 @@ A data model that predicts food desert geographies at the census tract level for
 A Spotify recommendation system for prominent music labels.
 
 ### Current Project
-<b>Sustainability report altruism predictor (Ongoing 2/1/2021 - )
+<b>Sustainability report altruism predictor</b> (Ongoing 2/1/2021 - present)
 
 An data model that assesses a companies sustainability report and predicts if they signed the <a href="https://www.theclimatepledge.com/about.html">Climate Pledge</a>.
 
