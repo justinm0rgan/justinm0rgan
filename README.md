@@ -19,13 +19,15 @@ I am data scientist passionate about the intersectionality between data and sust
 I recently completed a MS in Environmental Policy and Sustainability Management @ <a href="https://www.newschool.edu/milano/environmental-policy-sustainability-management-ms/">The New School</a> and an immersive Data Science Bootcamp @ <a href="https://flatironschool.com/career-courses/data-science-bootcamp">Flatiron School</a>. 
 
 ### Capstone Project
-<b>NYC Food Desert Predictor</b> 
+<b>NYC Food Desert Predictor</b>
+<br>
 <a href="https://www.loom.com/share/785b69149e744831817a195db026b182">Overview Demo</a> | <a href="https://github.com/justinm0rgan/nyc-food-desert-predictor">Repo</a>
 
 A data model that predicts food desert geographies at the census tract level for NYC 5 boroughs
 
 ### Other Projects
 <b>Music Recommender</b> 
+<br>
 <a href="https://github.com/khyateed/music-recommender">Repo</a>
 
 A Spotify recommendation system for prominent music labels.
