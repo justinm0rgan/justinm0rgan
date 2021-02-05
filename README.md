@@ -42,4 +42,4 @@ A data model that assesses companies sustainability report and predicts if they 
 <a href ="https://justinmorganwilliams.medium.com/">
     <img alt="Medium" src="./images/medium.svg" width=75></a>
 <a href ="https://www.instagram.com/sustainablemorgan/?hl=en">
-    <img alt="Instagram" src="./images/ig.svg" width=75></a>
+    <img alt="Instagram" src="./images/ig.png" width=75></a>
