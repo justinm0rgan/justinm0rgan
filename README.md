@@ -32,7 +32,7 @@ A Spotify recommendation system for prominent music labels.
 
 ### Current Project
 <b>Health Food Store Cold Caller Recommender</b> <i>(for trail mix company <a href="https://www.coasttocoastfoods.com/">Coast to Coast</a>)</i> 
-A machine learning model that identifies health food stores within an inputted location that would be most likely to purchase Coast to Coast trail mix. 
+Recommends health food stores within an inputted location that would be most likely to purchase Coast to Coast trail mix. 
 
 
 ## Get in Touch 📫 
