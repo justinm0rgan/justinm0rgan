@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I'm a data scientist passionate about the intersectionality between data and sustainability. 
-I recently completed a MS in Environmental Policy and Sustainability Management @ <a href="https://www.newschool.edu/milano/environmental-policy-sustainability-management-ms/">The New School</a> and an immersive Data Science Bootcamp @ <a href="https://flatironschool.com/career-courses/data-science-bootcamp">Flatiron School</a>. 
+I recently completed a Masters (MS) in Environmental Policy and Sustainability Management @ <a href="https://www.newschool.edu/milano/environmental-policy-sustainability-management-ms/">The New School</a> and an immersive Data Science Bootcamp @ <a href="https://flatironschool.com/career-courses/data-science-bootcamp">Flatiron School</a>. 
 
 ### Capstone Project
 <b>NYC Food Desert Predictor</b>
