@@ -30,7 +30,10 @@ A data model that predicts food desert geographies at the census tract level for
 <a href="https://github.com/khyateed/music-recommender">Repo</a>
 A Spotify recommendation system for prominent music labels.
 
-### Current Project
+### Current Projects
+<b>Fair Work Week Auditor and Visualation Dash</b> <i>(for IKEA)</i> 
+Analyzes weekly Fast Food scheduling data, identifying payouts for violations and updates visualiztion dashboard weekly.
+
 <b>Health Food Store Cold Caller Recommender</b> <i>(for trail mix company <a href="https://www.coasttocoastfoods.com/">Coast to Coast</a>)</i> 
 Recommends stores within an inputted location that would be most likely to purchase Coast to Coast trail mix. 
 
