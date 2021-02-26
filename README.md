@@ -31,7 +31,7 @@ A data model that predicts food desert geographies at the census tract level for
 A Spotify recommendation system for prominent music labels.
 
 ### Current Projects
-<b>Fair Work Week Auditor and Visualation Dash</b> <i>(for IKEA)</i> 
+<b>Fair Work Week Auditor and Visualization Dash</b> <i>(for IKEA)</i> 
 Analyzes weekly Fast Food scheduling data, identifying payouts for violations and updates visualiztion dashboard weekly.
 
 <b>Health Food Store Cold Caller Recommender</b> <i>(for trail mix company <a href="https://www.coasttocoastfoods.com/">Coast to Coast</a>)</i> 
