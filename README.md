@@ -34,6 +34,9 @@ A Spotify recommendation system for prominent music labels.
 <b>Fair Work Week Auditor and Visualization Dash</b> <i>(for IKEA)</i> 
 Program that analyzes weekly Food co-worker scheduling data, identifying possible violations and updates dashboard weekly.
 
+<b>MTA Turnstile COVID Analysis</b>
+Analysis of MTA turnstile data and the disproportionate impact COVID-19 has had on communities of lower socio-economic status. 
+
 <b>Health Food Store Cold Caller Recommender</b> <i>(for trail mix company <a href="https://www.coasttocoastfoods.com/">Coast to Coast</a>)</i> 
 Recommends stores within an inputted location that would be most likely to purchase Coast to Coast trail mix. 
 
