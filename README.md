@@ -32,7 +32,7 @@ A Spotify recommendation system for prominent music labels.
 
 ### Current Projects
 <b>Fair Work Week Auditor and Visualization Dash</b> <i>(for IKEA)</i> 
-Program that analyzes weekly Food co-worker scheduling data, identifying possible violations and updates dashboard weekly.
+Program that analyzes weekly Food co-worker scheduling data, identifying possible violations and updates summary dashboard weekly.
 
 <b>MTA Turnstile COVID Analysis</b>
 Analysis of MTA turnstile data and the disproportionate impact COVID-19 has had on communities of lower socio-economic status. 
