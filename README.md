@@ -32,9 +32,11 @@ A Spotify recommendation system for prominent music labels.
 
 ### Current Projects
 <b>Fair Work Week Auditor and Visualization Dash</b> <i>(for IKEA)</i> 
+<br>
 Program that analyzes weekly Food co-worker scheduling data, identifying possible violations and updates summary dashboard weekly.
 
-<b><a href="http://www.chicago400.net/">Chicago400</a> Project (Statistics Without Borgers)</b>
+<b><a href="http://www.chicago400.net/">Chicago400</a> Project</b> <i>(for Statistics Without Borgers)</i>
+<br>
 Geospatial analysis of banishmnet zones for constiutents with previous convictions who are listed on public registries and experiencing homelessness and therefore must register weekly with the Chicago Police Department
  
 
