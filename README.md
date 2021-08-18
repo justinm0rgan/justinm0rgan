@@ -34,8 +34,9 @@ A Spotify recommendation system for prominent music labels.
 <b>Fair Work Week Auditor and Visualization Dash</b> <i>(for IKEA)</i> 
 Program that analyzes weekly Food co-worker scheduling data, identifying possible violations and updates summary dashboard weekly.
 
-<b>MTA Turnstile COVID Analysis</b>
-Analysis of MTA turnstile data and the disproportionate impact COVID-19 has had on communities of lower socio-economic status. 
+<b><a href="http://www.chicago400.net/">Chicago400</a> Project (Statistics Without Borgers)</b>
+Geospatial analysis of banishmnet zones for constiutents with previous convictions who are listed on public registries and experiencing homelessness and therefore must register weekly with the Chicago Police Department
+ 
 
 
 ## Get in Touch 📫 
