@@ -35,6 +35,7 @@ A Spotify recommendation system for prominent music labels.
 <br>
 <a href="https://github.com/justinm0rgan/chicago400">Repo</a>
 Geospatial analysis of banishmnet zones for constiutents with previous convictions listed on public registries and experiencing homelessness.
+
 <b>Fair Work Week Auditor and Visualization Dash</b> <i>(for IKEA)</i> 
 <br>
 Program that analyzes weekly Food co-worker scheduling data, identifying possible violations and updates summary dashboard weekly.
