@@ -34,8 +34,7 @@ A Spotify recommendation system for prominent music labels.
 <b><a href="http://www.chicago400.net/">Chicago400</a> Project</b> <i>(for <a href="https://swb.wildapricot.org/">Statistics Without Borders)</i></a>
 <br>
 <a href="https://github.com/justinm0rgan/chicago400">Repo</a>
-Geospatial analysis of banishmnet zones for constiutents with previous convictions who are listed on public registries and experiencing homelessness and therefore must register weekly with the Chicago Police Department
-
+Geospatial analysis of banishmnet zones for constiutents with previous convictions listed on public registries and experiencing homelessness.
 <b>Fair Work Week Auditor and Visualization Dash</b> <i>(for IKEA)</i> 
 <br>
 Program that analyzes weekly Food co-worker scheduling data, identifying possible violations and updates summary dashboard weekly.
