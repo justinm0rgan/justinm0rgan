@@ -36,9 +36,9 @@ A Spotify recommendation system for prominent music labels.
 <a href="https://github.com/justinm0rgan/chicago400">Repo</a>
 Geospatial analysis of banishmnet zones for constiutents with previous convictions listed on public registries and experiencing homelessness.
 
-<b>Fair Work Week Auditor and Visualization Dash</b> <i>(for IKEA)</i> 
+<b>Fair Work Week Audit Automator and Visualization Dash</b> <i>(for IKEA)</i> 
 <br>
-Program that analyzes weekly Food co-worker scheduling data, identifying possible violations and updates summary dashboard weekly.
+Python command line package that analyzes weekly Food co-worker scheduling data, identifying possible violations and updates summary dashboard weekly.
  
 ## Get in Touch 📫 
 <a href="https://www.linkedin.com/in/justin-williams-322987a5/">
