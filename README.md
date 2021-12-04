@@ -35,9 +35,9 @@ A data model that predicts food desert geographies at the census tract level for
 A Spotify recommendation system for prominent music labels.
 
 ### Current Projects
-<b><a href="http://www.chicago400.net/">Chicago400</a> Project</b> <i>(for <a href="https://swb.wildapricot.org/">Statistics Without Borders)</i></a>
+<b><a href="http://www.chicago400.net/">Chicago400</a> Project</b> <i>(for <a href="https://swb.wildapricot.org/">Statistics Without Borders</a>)</i>
+| <a href="https://github.com/justinm0rgan/chicago400">Repo</a>
 <br>
-<a href="https://github.com/justinm0rgan/chicago400">Repo</a>
 Geospatial analysis of banishmnet zones for constiutents with previous convictions listed on public registries and experiencing homelessness.
 
 <b>Fair Work Week Audit Automator and Visualization Dash</b> <i>(for IKEA)</i> 
