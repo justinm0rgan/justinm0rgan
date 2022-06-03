@@ -22,7 +22,17 @@ I am currently enrolled in a <b>Master's of Science (MS) in Data Science</b> @ <
 <br>
 I recently completed an immersive <b>Data Science Bootcamp</b> @ <a href="https://flatironschool.com/career-courses/data-science-bootcamp">Flatiron School</a> (Sept 2020 - Jan 2021),
 and a <b>Master's of Science (MS)</b> in Environmental Policy and Sustainability Management @ <a href="https://www.newschool.edu/milano/environmental-policy-sustainability-management-ms/">The New School</a> (Dec 2019).
-### Capstone Project
+
+### Current Projects
+<b>NYC COVID-19 App Tracker</b> | <a href="https://justinm0rgan.shinyapps.io/nyc_covid_tracker_app/">RShiny App</a> | <a href="https://github.com/justinm0rgan/nyc_covid_tracker">Repo</a>
+<br>
+<b><a href="http://www.chicago400.net/">Chicago400</a> Project</b> <i>(for <a href="https://swb.wildapricot.org/">Statistics Without Borders</a>)</i>
+| <a href="https://github.com/justinm0rgan/chicago400">Repo</a>
+<br>
+Geospatial analysis of banishmnet zones for constiutents with previous convictions listed on public registries and experiencing homelessness.
+
+
+### Capstone Project for Flatiron School
 <b>NYC Food Desert Predictor</b>
 <br>
 <a href="https://www.loom.com/share/785b69149e744831817a195db026b182">Overview Demo</a> | <a href="https://github.com/justinm0rgan/nyc-food-desert-predictor">Repo</a>
@@ -34,15 +44,6 @@ A data model that predicts food desert geographies at the census tract level for
 <a href="https://github.com/khyateed/music-recommender">Repo</a>
 A Spotify recommendation system for prominent music labels.
 
-### Current Projects
-<b><a href="http://www.chicago400.net/">Chicago400</a> Project</b> <i>(for <a href="https://swb.wildapricot.org/">Statistics Without Borders</a>)</i>
-| <a href="https://github.com/justinm0rgan/chicago400">Repo</a>
-<br>
-Geospatial analysis of banishmnet zones for constiutents with previous convictions listed on public registries and experiencing homelessness.
-
-<b>Fair Work Week Audit Automator and Visualization Dash</b> <i>(for IKEA)</i> 
-<br>
-Python command line package that analyzes weekly Food co-worker scheduling data, identifying possible violations and updates summary dashboard weekly.
  
 ## Get in Touch 📫 
 <a href="https://www.linkedin.com/in/justin-williams-322987a5/">
