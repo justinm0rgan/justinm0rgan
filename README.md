@@ -26,7 +26,7 @@ and a <b>Master's of Science (MS)</b> in Environmental Policy and Sustainability
 ### Current Projects
 <b>NYC COVID-19 App Tracker</b> | <a href="https://justinm0rgan.shinyapps.io/nyc_covid_tracker_app/">RShiny App</a> | <a href="https://github.com/justinm0rgan/nyc_covid_tracker">Repo</a>
 <br>
-COVID-19 interactive RShiny GIS app tracker to view case rate, test rate and percent positive over time. 
+NYC COVID-19 interactive RShiny GIS app tracker to view case rate, test rate and percent positive over time. 
 <br>
 <br>
 <b><a href="http://www.chicago400.net/">Chicago400</a> Project</b> <i>(for <a href="https://swb.wildapricot.org/">Statistics Without Borders</a>)</i>
