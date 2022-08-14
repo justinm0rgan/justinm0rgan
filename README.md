@@ -23,7 +23,7 @@ I am currently enrolled in a <b>Master's of Science (MS) in Data Science</b> @ <
 I recently completed an immersive <b>Data Science Bootcamp</b> @ <a href="https://flatironschool.com/career-courses/data-science-bootcamp">Flatiron School</a> (Sept 2020 - Jan 2021),
 and a <b>Master's of Science (MS)</b> in Environmental Policy and Sustainability Management @ <a href="https://www.newschool.edu/milano/environmental-policy-sustainability-management-ms/">The New School</a> (Dec 2019).
 
-### Current Projects
+### Current Personal Projects
 <b>NYC COVID-19 App Tracker</b> | <a href="https://justinm0rgan.shinyapps.io/nyc_covid_tracker_app/">RShiny App</a> | <a href="https://github.com/justinm0rgan/nyc_covid_tracker">Repo</a>
 <br>
 NYC COVID-19 interactive RShiny GIS app tracker to view case rate, test rate and percent positive over time. 
