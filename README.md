@@ -45,4 +45,4 @@ Geospatial analysis of banishmnet zones for constiutents with previous convictio
 <a href ="https://justinmorganwilliams.medium.com/">
     <img alt="Medium" src="./images/medium.svg" width=75></a>
 <a href ="https://www.instagram.com/sustainablemorgan/?hl=en">
-    <img alt="Instagram" src="./images/ig.png" width=75></a>
+    <img alt="Instagram" src="./images/iconmonstr-instagram-11.svg" width=75></a>
