@@ -18,12 +18,17 @@ Here are some ideas to get you started:
 I'm a data analyst/scientist passionate about the intersectionality between data and sustainability.
 <br>
 <br>
-I am currently enrolled in a <b>Master's of Science (MS) in Data Science</b> @ <a href="https://sps.cuny.edu/academics/graduate/master-science-data-science-ms">CUNY School for Professional Studies (SPS)</a>.
+I am currently enrolled in a <b>Master's of Science (MS) in Data Science</b> @ <a href="https://sps.cuny.edu/academics/graduate/master-science-data-science-ms">CUNY School for Professional Studies (SPS)</a> with an expected graduation of December 2023.
+<br>
 <br>
 I recently completed an immersive <b>Data Science Bootcamp</b> @ <a href="https://flatironschool.com/career-courses/data-science-bootcamp">Flatiron School</a> (Sept 2020 - Jan 2021),
 and a <b>Master's of Science (MS)</b> in Environmental Policy and Sustainability Management @ <a href="https://www.newschool.edu/milano/environmental-policy-sustainability-management-ms/">The New School</a> (Dec 2019).
 
 ### Current Personal Projects
+<b>Mass Shootings in the US</b> | <a href="https://justinm0rgan.shinyapps.io/gun-violence-mass-shooting-us/">Shiny for Python App</a> | <a href="https://github.com/justinm0rgan/gun-violence">Repo</a>
+ <br>
+This project provides an analysis on mass shootings in America from October 2019 through December 2022 using data from <a href="https://www.gunviolencearchive.org/">Gun Violence Archive (GVA)</a>
+
 <b>NYC COVID-19 App Tracker</b> | <a href="https://justinm0rgan.shinyapps.io/nyc_covid_tracker_app/">RShiny App</a> | <a href="https://github.com/justinm0rgan/nyc_covid_tracker">Repo</a>
 <br>
 NYC COVID-19 interactive RShiny GIS app tracker to view case rate, test rate and percent positive over time. 
@@ -33,13 +38,6 @@ NYC COVID-19 interactive RShiny GIS app tracker to view case rate, test rate and
 | <a href="https://github.com/justinm0rgan/chicago400">Repo</a>
 <br>
 Geospatial analysis of banishmnet zones for constiutents with previous convictions listed on public registries and experiencing homelessness.
-
-
-### Capstone Project for Flatiron School
-<b>NYC Food Desert Predictor</b>
-<br>
-<a href="https://www.loom.com/share/785b69149e744831817a195db026b182">Overview Demo</a> | <a href="https://github.com/justinm0rgan/nyc-food-desert-predictor">Repo</a>
-A data model that predicts food desert geographies at the census tract level for NYC 5 boroughs.
  
 ## Get in Touch 📫 
 <a href="https://www.linkedin.com/in/justin-williams-322987a5/">
