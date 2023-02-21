@@ -37,7 +37,7 @@ NYC COVID-19 interactive RShiny GIS app tracker to view case rate, test rate and
 <b><a href="http://www.chicago400.net/">Chicago400</a> Project</b> <i>(for <a href="https://swb.wildapricot.org/">Statistics Without Borders</a>)</i>
 | <a href="https://github.com/justinm0rgan/chicago400">Repo</a> | <a href="https://medium.com/@justinmorganwilliams/gis-project-with-geopandas-56a83aa89dbc">Blog</a>
 <br>
-Geospatial analysis of banishmnet zones for constiutents with previous convictions listed on public registries experiencing homelessness.
+Geospatial analysis of banishment zones for constiutents with previous convictions listed on public registries experiencing homelessness.
  
 ## Get in Touch 📫 
 <a href="https://www.linkedin.com/in/justin-williams-322987a5/">
