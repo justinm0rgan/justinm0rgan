@@ -22,7 +22,7 @@ I am currently enrolled in a <b>Master's of Science (MS) in Data Science</b> @ <
 <br>
 <br>
 I recently completed an immersive <b>Data Science Bootcamp</b> @ <a href="https://flatironschool.com/career-courses/data-science-bootcamp">Flatiron School</a> (Sept 2020 - Jan 2021),
-and a <b>Master's of Science (MS)</b> in Environmental Policy and Sustainability Management @ <a href="https://www.newschool.edu/milano/environmental-policy-sustainability-management-ms/">The New School</a> (Dec 2019).
+and a <b>Master's of Science (MS)</b> in Environmental Policy and Sustainability Management @ <a href="https://www.newschool.edu/milano/environmental-policy-sustainability-management-ms/">The New School</a> (Jan 2020).
 
 ### Current Personal Projects
 <b>Mass Shootings in the US</b> | <a href="https://justinm0rgan.shinyapps.io/gun-violence-mass-shooting-us/">Shiny for Python App</a> | <a href="https://github.com/justinm0rgan/gun-violence">Repo</a> | <a href="https://medium.com/@justinmorganwilliams/shiny-for-python-choropleth-map-b750a880ef0a">Blog</a>
