@@ -25,6 +25,11 @@ I recently completed an immersive <b>Data Science Bootcamp</b> @ <a href="https:
 and a <b>Master's of Science (MS)</b> in Environmental Policy and Sustainability Management @ <a href="https://www.newschool.edu/milano/environmental-policy-sustainability-management-ms/">The New School</a> (Jan 2020).
 
 ### Recent Personal Projects
+<b>NYC Tree Health<b> | <a href="https://nyc-tree-health.herokuapp.com/">Dash App</a> | <a href="https://github.com/justinm0rgan/dash-heroku">Repo</a> | <a href="https://justinmorganwilliams.medium.com/python-dash-app-for-nyc-tree-health-36554e3c146f">Blog</a>
+<br>
+Takes data from <a href="https://data.cityofnewyork.us/Environment/2015-Street-Tree-Census-Tree-Data/uvpi-gqnh">NYC Open Data - 2015 Tree Census</a> depicting tree health by borough and stewardship level
+<br>
+<br>
 <b>Mass Shootings in the US</b> | <a href="https://justinm0rgan.shinyapps.io/gun-violence-mass-shooting-us/">Shiny for Python App</a> | <a href="https://github.com/justinm0rgan/gun-violence">Repo</a> | <a href="https://medium.com/@justinmorganwilliams/shiny-for-python-choropleth-map-b750a880ef0a">Blog</a>
  <br>
 Analysis on mass shootings in America from October 2019 through December 2022 using data from <a href="https://www.gunviolencearchive.org/">Gun Violence Archive (GVA)</a>
@@ -32,13 +37,7 @@ Analysis on mass shootings in America from October 2019 through December 2022 us
 <b>NYC COVID-19 App Tracker</b> | <a href="https://justinm0rgan.shinyapps.io/nyc_covid_tracker_app/">RShiny App</a> | <a href="https://github.com/justinm0rgan/nyc_covid_tracker">Repo</a> | <a href="https://medium.com/@justinmorganwilliams/nyc-covid-19-gis-app-tracker-bacb83b8f26d">Blog</a>
 <br>
 NYC COVID-19 interactive RShiny GIS app tracker to view case rate, test rate and percent positive over time. 
-<br>
-<br>
-<b><a href="http://www.chicago400.net/">Chicago400</a> Project</b> <i>(for <a href="https://swb.wildapricot.org/">Statistics Without Borders</a>)</i>
-| <a href="https://github.com/justinm0rgan/chicago400">Repo</a> | <a href="https://medium.com/@justinmorganwilliams/gis-project-with-geopandas-56a83aa89dbc">Blog</a>
-<br>
-Geospatial analysis of banishment zones for constiutents with previous convictions listed on public registries experiencing homelessness.
- 
+
 ## Get in Touch 📫 
 <a href="https://www.linkedin.com/in/justin-williams-322987a5/">
     <img alt="LinkedIn" src="./images/linkedin.svg" width=75></a>
