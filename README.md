@@ -25,7 +25,7 @@ I recently completed an immersive <b>Data Science Bootcamp</b> @ <a href="https:
 and a <b>Master's of Science (MS)</b> in Environmental Policy and Sustainability Management @ <a href="https://www.newschool.edu/milano/environmental-policy-sustainability-management-ms/">The New School</a> (Jan 2020).
 
 ### Recent Personal Projects
-<b>NYC Tree Health<b> | <a href="https://nyc-tree-health.herokuapp.com/">Dash App</a> | <a href="https://github.com/justinm0rgan/dash-heroku">Repo</a> | <a href="https://justinmorganwilliams.medium.com/python-dash-app-for-nyc-tree-health-36554e3c146f">Blog</a>
+<b>NYC Tree Health</b> | <a href="https://nyc-tree-health.herokuapp.com/">Dash App</a> | <a href="https://github.com/justinm0rgan/dash-heroku">Repo</a> | <a href="https://justinmorganwilliams.medium.com/python-dash-app-for-nyc-tree-health-36554e3c146f">Blog</a>
 <br>
 Takes data from <a href="https://data.cityofnewyork.us/Environment/2015-Street-Tree-Census-Tree-Data/uvpi-gqnh">NYC Open Data - 2015 Tree Census</a> depicting tree health by borough and stewardship level
 <br>
