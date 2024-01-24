@@ -18,10 +18,9 @@ Here are some ideas to get you started:
 I'm a data analyst/scientist passionate about the intersectionality between data and sustainability.
 <br>
 <br>
-I am currently enrolled in a <b>Master's of Science (MS) in Data Science</b> @ <a href="https://sps.cuny.edu/academics/graduate/master-science-data-science-ms">CUNY School for Professional Studies (SPS)</a> with an expected graduation of January 2024.
+As of January 2024, I completed a <b>Master's of Science (MS) in Data Science</b> @ <a href="https://sps.cuny.edu/academics/graduate/master-science-data-science-ms">CUNY School for Professional Studies (SPS)</a>.
 <br>
-<br>
-I recently completed an immersive <b>Data Science Bootcamp</b> @ <a href="https://flatironschool.com/career-courses/data-science-bootcamp">Flatiron School</a> (Sept 2020 - Jan 2021),
+In additiona, I recently completed an immersive <b>Data Science Bootcamp</b> @ <a href="https://flatironschool.com/career-courses/data-science-bootcamp">Flatiron School</a> (Sept 2020 - Jan 2021),
 and a <b>Master's of Science (MS)</b> in Environmental Policy and Sustainability Management @ <a href="https://www.newschool.edu/milano/environmental-policy-sustainability-management-ms/">The New School</a> (Jan 2020).
 
 ### Recent Personal Projects
